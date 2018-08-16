@@ -274,5 +274,5 @@ To resolve this, ensure that the following files are available (install them if 
 You may also need to load the module by hand - run `modprobe binfmt_misc`.
 
 
-
-This is my personal version build for my work in Remote-CTRL, a project by Enactus Memorial aiming to bring educational ressources to rural areas of Newfoundland.
+=================
+Work In Progress
